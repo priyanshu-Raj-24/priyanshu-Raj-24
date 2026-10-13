@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Priyanshu%20Raj&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn" alt="Header" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=7EE8FA&center=true&vCenter=true&repeat=true&width=700&height=50&lines=I+debug+code+with+chill+beats%2C+and+steady+learning" alt="I debug code with chill beats, and steady learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=7EE8FA&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Hello+I+Debug+code+with+chill+beats%2C+and+steady+learning" alt="Hello I Debug code with chill beats, and steady learning" />
 </a>
 
 <br/>
@@ -25,6 +25,18 @@
 
 </div>
 
+## GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=priyanshu-Raj-24&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-Raj-24&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=priyanshu-Raj-24&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+</div>
 ---
 
 ## About
@@ -46,18 +58,7 @@ I am a developer focused on learning consistently and building things that work.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-## GitHub Activity
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=priyanshu-Raj-24&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-Raj-24&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=priyanshu-Raj-24&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
 
 ## Connect
 
