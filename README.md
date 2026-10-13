@@ -18,10 +18,10 @@
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
 
-<br/><br/>
+<!-- <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=priyanshu-Raj-24&label=Profile+Views&color=c471f5&style=flat-square" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/priyanshu-Raj-24?style=flat-square&color=7ee8fa&label=Followers" alt="Followers" />
+<img src="https://img.shields.io/github/followers/priyanshu-Raj-24?style=flat-square&color=7ee8fa&label=Followers" alt="Followers" /> -->
 
 </div>
 
