@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Priyanshu%20Raj&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn" alt="Header" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=7EE8FA&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Hello+I+Debug+code+with+chill+beats%2C+and+steady+learning" alt="Hello I Debug code with chill beats, and steady learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=7EE8FA&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Hello+I+Debug+code+with+chill+Beats+and+steady+learning" alt="Hello I Debug code with chill Beats and steady learning" />
 </a>
 
 <br/>
@@ -37,11 +37,10 @@
 <img src="https://streak-stats.demolab.com?user=priyanshu-Raj-24&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
----
 
 ## About
 
-I am a developer focused on learning consistently and building things that work. I enjoy problem solving, reading other people's code, and improving a little with every commit.
+I am a developer focused on learning consistently and building things that work which sometimes feels like a game and sometimes it feels like a nightmare,but I enjoy solving problems, reading other people's code, and improving a little with every commit.
 
 - Practicing data structures and algorithms on LeetCode
 - Building projects to apply what I learn
