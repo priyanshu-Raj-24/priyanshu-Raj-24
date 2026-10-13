@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Priyanshu%20Raj&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn" alt="Header" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=7EE8FA&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Hello+I+Debug+code+with+chill+Beats+and+steady+learning" alt="Hello I Debug code with chill Beats and steady learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=7EE8FA&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Hello+I+Debug+code+with+chill+Beats+and+steady+learning" alt="Hello I Debug code with chill Beats and steady learning" />
 </a>
 
 <br/>
