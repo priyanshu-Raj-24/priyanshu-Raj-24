@@ -29,12 +29,12 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=priyanshu-Raj-24&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-Raj-24&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=priyanshu-Raj-24&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=14400&v=2" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-Raj-24&layout=compact&theme=radical&hide_border=true&cache_seconds=14400&v=2" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=priyanshu-Raj-24&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=priyanshu-Raj-24&theme=radical&hide_border=true&v=2" alt="GitHub Streak" />
 
 </div>
 
