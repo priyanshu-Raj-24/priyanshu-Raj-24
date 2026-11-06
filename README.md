@@ -18,21 +18,11 @@
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
 
-<!-- <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=priyanshu-Raj-24&label=Profile+Views&color=c471f5&style=flat-square" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/priyanshu-Raj-24?style=flat-square&color=7ee8fa&label=Followers" alt="Followers" /> -->
-
 </div>
 
 ## GitHub Activity
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=priyanshu-Raj-24&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=14400&v=2" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-Raj-24&layout=compact&theme=radical&hide_border=true&cache_seconds=14400&v=2" alt="Top Languages" />
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=priyanshu-Raj-24&theme=radical&hide_border=true&v=2" alt="GitHub Streak" />
 
@@ -40,7 +30,7 @@
 
 ## About
 
-I am a developer focused on learning consistently and building things that work which sometimes feels like a game and sometimes it feels like a nightmare,but I enjoy solving problems, reading other people's code, and improving a little with every commit.
+I am a developer focused on learning consistently and building things that work. It sometimes feels like a game and sometimes like a nightmare, but I enjoy solving problems, reading other people's code, and improving a little with every commit.
 
 - Practicing data structures and algorithms on LeetCode
 - Building projects to apply what I learn
@@ -56,8 +46,6 @@ I am a developer focused on learning consistently and building things that work 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
-
-
 
 ## Connect
 
